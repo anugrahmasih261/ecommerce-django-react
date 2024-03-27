@@ -3,7 +3,7 @@
 [Live Demo](https://www.buildproshop.com/)
 
 
-![DEMO](../master/static/images/proshop_django_demo.png)
+![DEMO-Image](../master/static/images/proshop_django_demo.png)
 
 
 # Features
